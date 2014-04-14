@@ -1,0 +1,92 @@
+! --- ~/.Xdefaults ---------------------------------------------------------------
+
+! ! ------------------------------------------------------------------------------
+! ! ----- Xdefaults file by Samir Kahvedzic --------------------------------------
+! ! ------------------------------------------------------------------------------
+!
+...
+*foreground:	#ebebeb
+*background:	#101012
+
+!black
+*color0:	#1F1F1F
+*color8:	#4d4d4d
+!redc
+*color1:	#A54242
+*color9:	#CC6666 
+!green
+*color2:	#B7CE42
+*color10:	#BDE077
+!yellow
+*color3:	#FEA63C
+*color11:	#FFE863
+!blue
+*color4:	#66AABB
+*color12:	#AACCBB
+!magenta
+*color5:	#B7416E
+*color13:	#BB4466
+!cyan
+*color6:	#5E7175
+*color14:	#A3BABF
+!white
+*color7:	#DDEEDD
+*color15:	#6C887A
+...
+!
+! ! ------------------------------------------------------------------------------
+! ! --- end of terminal colors section -------------------------------------------
+! ! ------------------------------------------------------------------------------
+!
+!
+
+
+!urxvt fonts:
+
+urxvt*letterSpace: 0
+
+!enabling clickable links
+URxvt.perl-ext-common: default,matcher,tabbedex,vtwheel,clipboard
+!tabbed
+URxvt.matcher.button:   1
+URxvt.perl-ext:      default,url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+    URxvt.url-select.launcher:   /usr/bin/icecat -new-tab
+URxvt.url-select.underline: true
+
+!disable the fucking bell
+URxvt.insecure: false
+
+URxvt.keysym.M-c: perl:clipboard:copy
+URxvt.keysym.M-v: perl:clipboard:paste
+
+!urxvt scrolling options and cursor style:
+
+
+URxvt*saveLines: 300000
+URxvt.scrollBar_right: false
+URxvt*scrollstyle:plain
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+URxvt*cursorColor: #4e9a06
+
+!!
+
+URxvt.tabbedex.autohide: yes
+URxvt.tabbedex.tabbar-fg: 2
+URxvt.tabbedex.tabbar-bg: 0
+URxvt.tabbedex.tab-fg:    10
+URxvt.tabbedex.tab-bg:    0
+URxvt.tabbedex.title: yes
+URxvt.tabbedex.new-button:  no
+
+
+urxvt*allow_bold: false
+
+
+!URxvt.transparent: true
+! URxvt.shading: 0 to 99 darkens, 101 to 200 lightens
+!urXVt.shading: 10
+
+! FUll screen
+URxvt.keysym.F11: perl:fullscreen:switch

@@ -1,0 +1,29 @@
+!URxvt*font: xft:Inconsolata-dz for Powerline:pixelsize=12
+!URxvt*font: xft:drift:pixelsize=12
+!URxvt*font: xft:lemon:pixelsize=9
+!URxvt*font: xft:Marathonmod:pixelsize=9
+!URxvt*font: xft:Terminess Powerline:size=12
+!URxvt*font: xft:Source Sans Pro:pixelsize=12
+!URxvt*font: xft:Meslo LG L DZ for Powerline:pixelsize=12
+!URxvt*font: xft:PragmataPro:antialias=True:pixelsize=13
+URxvt*font: xft:Monaco for Powerline:pixelsize=12
+!URxvt*font: xft:monofur:pixelsize=13
+!URxvt*font: xft:Ohsnap:pixelsize=11
+!URxvt*font: xft:Envy Code R:pixelsize=14
+!URxvt*boldFont: xft:Envy Code R:bold:pixelsize=14
+!URxvr*letterSpace: -1
+
+URxvt*depth: 32
+!URxvt*geometry: 79x19
+URxvt*geometry: 90x21
+
+*scrollstyle: plain
+*scrollBar: false
+*scrollBar_floating: true
+
+*internalBorder: 4
+
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+#include "/home/randalltux/colors/dotshare"

@@ -1,0 +1,108 @@
+!Technobass - Foreground/Background
+URxvt*foreground: #D7D0C7
+URxvt*background: #121212
+
+!Technicolor I & II - Foreground/Background
+!URxvt*foreground: #b4b4b4
+!URxvt*background: #121212
+
+!Technicolor II
+! -- black
+!URxvt*color0: #000000
+! -- red
+!URxvt*color1: #A01515
+! -- green
+!URxvt*color2: #86BE51
+! -- yellow
+!URxvt*color3: #968a38
+! -- blue
+!URxvt*color4: #3b7b9c
+! -- purple
+!URxvt*color5: #A6397A
+! -- cyan
+!URxvt*color6: #3b9c5b
+! -- white
+!URxvt*color7: #E9E9E9
+! -- bright-black
+!URxvt*color8: #555753
+! -- bright-red
+!URxvt*color9: #C4362D
+! -- bright-green
+!URxvt*color10: #a6df36
+! -- bright-yellow
+!URxvt*color11: #e8621d
+! -- bright-blue
+!URxvt*color12:  #6495ed
+! -- bright-purple
+!URxvt*color13: #8963B9
+! -- bright-cyan
+!URxvt*color14: #34E2E2
+! -- bright-white
+!URxvt*color15: #c3c2c5
+
+!Technobass
+! -- black
+URxvt*color0: #000000
+! -- red
+URxvt*color1: #ff8888
+! -- green
+URxvt*color2:  #80852d
+! -- yellow
+URxvt*color3: #ffaa55
+! -- blue
+URxvt*color4: #82b8f2
+! -- purple
+URxvt*color5: #ad7fa8
+! -- cyan
+URxvt*color6: #6b9b8b
+! -- white
+URxvt*color7: #babdb6
+! -- bright-black
+URxvt*color8: #555753
+! -- bright-red
+URxvt*color9: #e5505f
+! -- bright-green
+URxvt*color10: #b7e234
+! -- bright-yellow
+URxvt*color11: #e8621d
+! -- bright-blue
+URxvt*color12:  #0088cc
+! -- bright-purple
+URxvt*color13: #cb99e1
+! -- bright-cyan
+URxvt*color14: #34E2E2
+! -- bright-white
+URxvt*color15: #e9e9e9
+
+!Technicolor I
+! black
+!URxvt*color0:  #000000
+!URxvt*color8:  #555753
+
+! red
+!URxvt*color1:  #9e1828
+!URxvt*color9:  #cf6171
+
+! green
+!URxvt*color2:  #80852d
+!URxvt*color10: #7cbc8c
+
+! yellow
+!URxvt*color3:  #968a38
+!URxvt*color11: #fff796
+
+! blue
+!URxvt*color4:  #414171
+!URxvt*color12: #4186be
+
+! magenta
+!URxvt*color5:  #963c59
+!URxvt*color13: #cf9ebe
+
+! cyan
+!URxvt*color6:  #418179
+!URxvt*color14: #71bebe
+
+! white
+!URxvt*color7:  #aaaaaa
+!URxvt*color15: #c3c2c5

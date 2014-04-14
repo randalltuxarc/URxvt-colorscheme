@@ -1,0 +1,40 @@
+! Dark Background
+*foreground:  #cccccc
+*background:  #151515
+
+! Light Background
+!*foreground:  #444444
+!*background:  #f5f5f5
+
+! Black
+*color0:      #333333
+*color8:      #030303
+
+! Red
+*color1:      #cb1c13
+*color9:      #ff3a00
+
+! Green
+*color2:      #afd700
+*color10:     #8ce25d
+
+! Yellow
+*color3:      #ff8f00
+*color11:     #ffb445
+
+! Blue
+*color4:      #1165e9
+*color12:     #5496ff
+
+! Magenta
+*color5:      #ff005f
+*color13:     #ff6767
+
+! Cyan
+*color6:      #2873a2
+*color14:     #41c2bb
+
+! White
+*color7:      #fff8a4
+*color15:     #f5e67f
+
